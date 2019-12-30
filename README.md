@@ -10,6 +10,8 @@
 * Alien Cube: uses high poly cubes, so might be slow on old gpus. shapes can also be switched if needed
 * Picture Tiles: different pictures can be substituted in the "Picture Tiles" Base COMP
 
+*Whenever choosing one of these modes, it will launch stored parameter presets found in: /Spin/mode_change.  Update stored presets by using the Snap function of the Constant CHOPs. Also more modes can be created.*
+
 #### Grid Size:
 Changing this usually requires Reset to be toggled On and Off.
 
